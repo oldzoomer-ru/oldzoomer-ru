@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👋 Обо мне
 
-<!--
-**oldzoomer-ru/oldzoomer-ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java-разработчик с глубоким интересом к legacy-системам и их интеграции в современный стек. Сочетаю экспертизу в архаичных технологиях (FidoNet) с практическими навыками в современной Java-разработке.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Технологический стек
+
+**Основной стек:**  
+`Java 21` | `Spring Boot 3` | `Vaadin` | `PostgreSQL` | `Docker` | `GitHub Actions`
+
+**Специализация:**  
+`Backend Development` | `Микросервисы` | `Legacy-системы` | `FidoNet` | `Technical Writing`
+
+---
+
+### 💡 Принципы
+
+- **Код > Слова.** Предпочитаю реализацию дискуссии.
+- **Прозрачность.** Открыто делюсь успехами и проблемами.
+- **Legacy — не значит мёртвый.** Актуальные системы можно и нужно модернизировать.
