@@ -31,3 +31,5 @@
 Email: <work@oldzoomer.ru>
 
 Telegram: <https://t.me/oldzoomer_ru>
+
+Хабр: <https://habr.com/ru/users/oldzoomer/>
