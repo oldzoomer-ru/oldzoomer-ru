@@ -20,6 +20,14 @@
 
 Если вы хотите получить поинтовый адрес, [обратитесь ко мне](mailto:fidonet@oldzoomer.ru).
 
+## Контакты
+
+Email: <work@oldzoomer.ru>
+
+Telegram: <https://t.me/oldzoomer_ru>
+
+Хабр: <https://habr.com/ru/users/oldzoomer/>
+
 ## Спонсорство
 
 Если вы хотите чем-нибудь помочь, вы можете всегда это сделать.
@@ -30,11 +38,3 @@
 - [Оформить Альфа-Карту](https://alfa.me/3ZcjcH)
 - [Инвестировать с Альфа-Инвестициями](https://alfa.me/e-_2kB)
 - Записаться к психологу на [Ясно](https://yasno.live/) по промокоду **YASNO-GAVRILOVEGOR** - мне дадут за это бесплатную сессию
-
-## Контакты
-
-Email: <work@oldzoomer.ru>
-
-Telegram: <https://t.me/oldzoomer_ru>
-
-Хабр: <https://habr.com/ru/users/oldzoomer/>
