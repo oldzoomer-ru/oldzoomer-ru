@@ -18,6 +18,8 @@ Telegram: <https://t.me/oldzoomer_ru>
 
 Хабр: <https://habr.com/ru/users/oldzoomer/>
 
+[Поддержать меня](SPONSORSHIP.md)
+
 ## Насчёт FidoNet
 
 Я являюсь одним из самых молодых участников данной legacy-сети в настоящее время, с нодовым адресом [2:5015/519](https://nodehist.wfido.ru/index.cgi?address=2%3A5015%2F519).
