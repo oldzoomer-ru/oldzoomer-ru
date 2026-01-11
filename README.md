@@ -1,19 +1,18 @@
 # Обо мне
 
-Java Backend-разработчик. Специализируюсь на надёжных, автономных решениях: от IoT-шлюзов до обработки исторических данных.
+Java Backend-разработчик. Работаю с Java 17/21/25, Spring Boot 3.x/4.x.
 
 ## Ключевые проекты
 
 NodehistJ — архивация и анализ 40-летней истории Фидонета  
 GitHub: <https://github.com/oldzoomer-ru/nodehistj> 
 - Решил задачу долгосрочного хранения и сравнения nodelist’ов с 1984 года (до 40 000 узлов в файле).  
-- Архитектура: MinIO, Kafka (Redpanda), Redis, PostgreSQL, Spring Boot, Docker.  
-- Оптимизировал под слабое железо: запуск на 2 10% vCPU / 3-4 ГБ RAM, индексация — 15-30 минут вместо нескольких суток.
+- Архитектура: MinIO, Kafka (Redpanda), Redis, PostgreSQL, Spring Boot, Docker.
 
-StingrayTV Alice — IoT-шлюз для управления Триколором через Алису  
+StingrayTV Alice — IoT-шлюз для управления ресивером Триколора через Алису  
 GitHub: <https://github.com/oldzoomer-ru/stingraytv-alice>
-- Построил production-ready шлюз, который связывает ресивер в локальной сети с Алисой.  
-- Реализована полная интеграция с API Яндекс Умного дома (OAuth2, JWT).  
+- Построил шлюз, который связывает ресивер в локальной сети с Алисой.  
+- Реализована полная интеграция с API Яндекс Умного дома (REST API, OAuth2, JWT).  
 - Stateless-архитектура: состояние хранится только на ресивере, само приложение не хранит данных о состоянии.  
 - Безопасность: Keycloak + Spring Security OAuth2 Resource Server.
 
