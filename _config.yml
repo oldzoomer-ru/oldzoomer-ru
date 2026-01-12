@@ -9,19 +9,9 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
 title: Егор Гаврилов - личный хоумпейдж
-email: work@oldzoomer.ru
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Это мой личный хоумпейдж. Ничего особенного. Просто резюме.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: oldzoomer-ru
 
-theme: jekyll-theme-minimal
-plugins:
-  - jekyll-feed
+remote_theme: pages-themes/primer@v0.6.0
 
 lang: ru
-
-github:
-  is_user_page: true
-  is_project_page: false

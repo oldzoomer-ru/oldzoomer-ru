@@ -1,24 +1,14 @@
 ---
 ---
 
- @import "{{ site.theme }}";
+@font-face {
+    font-family: "Cantarell";
+    src:
+        url('/assets/fonts/Cantarell-VF.woff2') format('woff2'),
+        url('/assets/fonts/Cantarell-VF.woff') format('woff');
+    font-display: swap;
+}
 
- @font-face {
-     font-family: "Cantarell";
-     src:
-         url('/assets/fonts/Cantarell-VF.woff2') format('woff2'),
-         url('/assets/fonts/Cantarell-VF.woff') format('woff');
-     font-display: swap;
- }
+$body-font: Cantarell, sans-serif;
 
- body {
-     font-family: "Cantarell", sans-serif;
- }
-
- a {
-     color: #000;
- }
-
- a:hover {
-     color: #333;
- }
+@import "{{ site.theme }}";
