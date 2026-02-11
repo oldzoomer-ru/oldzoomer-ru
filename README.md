@@ -24,8 +24,6 @@ Email: <work@oldzoomer.ru>
 
 Telegram: <https://t.me/oldzoomer_ru>
 
-[Сертификаты](https://disk.yandex.ru/d/osLrwQeGh9ADnw)
-
 ## Поддержка проектов
 
 Я — независимый разработчик, поддерживающий собственную инфраструктуру: FidoNet-ноду, open-source проекты и этот сайт.  
