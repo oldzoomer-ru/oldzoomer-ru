@@ -24,6 +24,10 @@ Email: <work@oldzoomer.ru>
 
 Telegram: <https://t.me/oldzoomer_ru>
 
+Matrix: `@oldzoomer:matrix.oldzoomer.ru`
+
+FidoNet: `2:5015/519`
+
 ## Поддержка проектов
 
 Я — независимый разработчик, поддерживающий собственную инфраструктуру: FidoNet-ноду, open-source проекты и этот сайт.  
