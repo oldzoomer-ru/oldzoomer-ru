@@ -2,31 +2,11 @@
 
 Java Backend-разработчик. Работаю с Java 17/21/25, Spring Boot 3.x/4.x. [**Сертифицированный Vaadin-разработчик**](https://disk.yandex.ru/i/4dSLNkAEpemP0A), а также [**имею сертификацию от Cloud.ru**](https://awardme.ru/ru/users/egor-gavrilov-ad76eed8)
 
-## Ключевые проекты
-
-NodehistJ — архивация и анализ 40-летней истории Фидонета  
-GitHub: <https://github.com/oldzoomer-ru/nodehistj> 
-- Решил задачу долгосрочного хранения и сравнения nodelist’ов с 1984 года (до 40 000 узлов в файле).  
-- Архитектура: MinIO, Kafka (Redpanda), Redis, PostgreSQL, Spring Boot, Docker.
-
-StingrayTV Alice — IoT-шлюз для управления ресивером Триколора через Алису  
-GitHub: <https://github.com/oldzoomer-ru/stingraytv-alice>
-- Построил шлюз, который связывает ресивер в локальной сети с Алисой.  
-- Реализована полная интеграция с API Яндекс Умного дома (REST API, OAuth2, JWT).  
-- Stateless-архитектура: состояние хранится только на ресивере, само приложение не хранит данных о состоянии.  
-- Безопасность: Keycloak + Spring Security OAuth2 Resource Server.
-
-Все проекты сопровождаются CI/CD (GitHub Actions), покрыты автотестами (JUnit Jupiter, Mockito), собираются в минимальные Docker-образы.
-
 ## Контакты
 
 Email: <work@oldzoomer.ru>
 
 Telegram: <https://t.me/oldzoomer_ru>
-
-Matrix: `@oldzoomer:matrix.oldzoomer.ru`
-
-FidoNet: `2:5015/519`
 
 ## Поддержка проектов
 
@@ -40,9 +20,3 @@ FidoNet: `2:5015/519`
 2. **Boosty и VK Donut**
 
    Вы можете подписаться на регулярные донаты через [Boosty](https://boosty.to/oldzoomer) и [VK Donut](https://vk.com/donut/oldzoomer).
-
-## Насчёт FidoNet
-
-Я являюсь одним из самых молодых участников данной legacy-сети в настоящее время, с нодовым адресом [2:5015/519](https://nodehist.wfido.ru/index.cgi?address=2%3A5015%2F519).
-
-Если вы хотите получить поинтовый адрес, [обратитесь ко мне](mailto:fidonet@oldzoomer.ru).
