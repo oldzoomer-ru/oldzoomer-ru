@@ -1,8 +1,12 @@
-# Обо мне
+# About me
 
-- Java Backend-разработчик. Работаю с Java 17/21/25, Spring Boot 3.x/4.x
+- Core: Java 17/21/25, Spring Boot 3.x, Hibernate/JPA.
 
-- [**Сертифицированный Vaadin-разработчик**](https://disk.yandex.ru/i/4dSLNkAEpemP0A), а также [**имею сертификацию от Cloud.ru**](https://awardme.ru/ru/users/egor-gavrilov-ad76eed8)
+- Architecture: Microservices, REST API, OAuth2.
+
+- Infrastructure: Docker, PostgreSQL, Redis, Cloud.ru (ex. SberCloud).
+
+- Unique: Vaadin Certified, experience of FTN (FidoNet) protocols.
 
 ## Контакты
 
