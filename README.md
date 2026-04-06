@@ -8,7 +8,7 @@
 
 - Unique: Vaadin Certified, experience of FTN (FidoNet) protocols.
 
-## Контакты
+## Contacts
 
 Email: <work@oldzoomer.ru>
 
