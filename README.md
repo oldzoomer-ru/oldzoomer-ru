@@ -6,7 +6,7 @@
 
 - Infrastructure: Docker, PostgreSQL, Redis, Cloud.ru (ex. SberCloud).
 
-- Unique: Vaadin Certified, experience of FTN (FidoNet) protocols.
+- Unique: Vaadin Certified, experience of distributed systems.
 
 ## Contacts
 
