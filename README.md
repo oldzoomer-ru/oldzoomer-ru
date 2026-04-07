@@ -15,5 +15,3 @@ Setka (social network by HeadHunter): <https://set.ki/Dzarbxm>
 Email: <work@oldzoomer.ru>
 
 Telegram: <https://t.me/oldzoomer_ru>
-
-Matrix: @oldzoomer:matrix.oldzoomer.ru
