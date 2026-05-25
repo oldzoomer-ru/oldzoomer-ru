@@ -11,6 +11,6 @@
 
 - Email: [work@oldzoomer.ru](mailto:work@oldzoomer.ru)
 - Telegram: [@oldzoomer_ru](https://t.me/oldzoomer_ru)
-- GitHub: <https://github.com/oldzoomer-ru>
-- Сайт: <https://oldzoomer.ru>
+- GitHub: [@oldzoomer-ru](https://github.com/oldzoomer-ru)
+- Сайт: [oldzoomer.ru](https://oldzoomer.ru)
 - Сетка: <https://set.ki/Dzarbxm>
