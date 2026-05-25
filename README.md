@@ -13,4 +13,4 @@
 - Telegram: [@oldzoomer_ru](https://t.me/oldzoomer_ru)
 - GitHub: [@oldzoomer-ru](https://github.com/oldzoomer-ru)
 - Сайт: [oldzoomer.ru](https://oldzoomer.ru)
-- Сетка: <https://set.ki/Dzarbxm>
+- [Сетка](https://set.ki/Dzarbxm)
