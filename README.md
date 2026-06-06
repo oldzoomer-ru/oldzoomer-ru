@@ -11,3 +11,4 @@ Java-разработчик, специализируюсь на Spring Boot, м
 - GitHub: [@oldzoomer-ru](https://github.com/oldzoomer-ru)
 - Сайт: [oldzoomer.ru](https://oldzoomer.ru)
 - [Сетка](https://set.ki/Dzarbxm)
+- [LinkedIn](https://www.linkedin.com/in/oldzoomer/)
