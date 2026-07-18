@@ -1,10 +1,6 @@
 # Обо мне
 
-Java-разработчик, специализируюсь на Spring Boot и Vaadin. Также имею большой опыт с Docker, Linux (Ubuntu/Debian, Fedora/RHEL, Arch Linux). Обожаю Fedora Silverblue, Project Bluefin, ChromeOS, и другие cloud-native ОС.
-
-Владелец личного Matrix-сервера (matrix.oldzoomer.ru), а также являюсь SysOp'ом сети FidoNet ([2:5015/519](http://nodehist.wfido.ru/index.cgi?address=2%3A5015%2F519)).
-
-Имею сертификаты [Certified Vaadin 24 Developer (непрокторинговый)](https://vaadin.com/learn/certificate/d95d845a-c586-479d-916b-e08d536462fc), [Certified Vaadin 14 Developer (непрокторинговый)](https://vaadin.com/learn/certificate/c8b81823-d458-4e5b-bb3e-72d4b25831fe), [Cloud.ru Cloud Fundamentals (прокторинговый)](https://awardme.ru/ru/profile/8168a9f4-2513-456c-92c3-7c72ee6cdfdd), [Cloud.ru Evolution Fundamentals (прокторинговый)](https://awardme.ru/ru/profile/93602b2c-b7c4-4da3-b4cc-e0d335d04b73)
+Java-разработчик **с опытом коммерческой миграции legacy-систем** и **сильной инженерной практикой в пет-проектах** (построение отказоустойчивых пайплайнов на Kafka/S3, интеграция по mDNS/OAuth2). **Имею уклон в DevOps-практики** (Linux, Docker/Podman, CI/CD). Подтвержденные квалификации: Vaadin Certified Developer, Cloud.ru (прокторинг). Ищу команду, где смогу применять навыки для решения сложных backend-задач.
 
 Рассматриваю удалёнку по всей РФ (в т.ч. другие часовые пояса), гибрид в Нижнем Новгороде, офис/гибрид в Кстово.
 
@@ -18,3 +14,9 @@ Java-разработчик, специализируюсь на Spring Boot и 
 - [LinkedIn](https://www.linkedin.com/in/oldzoomer/)
 - Matrix: `@oldzoomer:matrix.oldzoomer.ru`
 - FidoNet: `2:5015/519`
+
+## Дополнительно
+
+Владелец личного Matrix-сервера (matrix.oldzoomer.ru), а также являюсь SysOp'ом сети FidoNet ([2:5015/519](http://nodehist.wfido.ru/index.cgi?address=2%3A5015%2F519)).
+
+Имею сертификаты [Certified Vaadin 24 Developer (непрокторинговый)](https://vaadin.com/learn/certificate/d95d845a-c586-479d-916b-e08d536462fc), [Certified Vaadin 14 Developer (непрокторинговый)](https://vaadin.com/learn/certificate/c8b81823-d458-4e5b-bb3e-72d4b25831fe), [Cloud.ru Cloud Fundamentals (прокторинговый)](https://awardme.ru/ru/profile/8168a9f4-2513-456c-92c3-7c72ee6cdfdd), [Cloud.ru Evolution Fundamentals (прокторинговый)](https://awardme.ru/ru/profile/93602b2c-b7c4-4da3-b4cc-e0d335d04b73)
