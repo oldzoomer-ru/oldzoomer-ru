@@ -1,0 +1,42 @@
+name: Sync with SDF
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync-process:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v4
+
+    - name: Convert README to HTML 4
+      run: |
+        sudo apt-get update && sudo apt-get install -y pandoc
+        pandoc README.md -f markdown -t html4 --id-prefix="" --ascii -o index.html
+
+    - name: Convert README to Gopher format
+      run: |
+        # Конвертация в plain text с ограничением ширины для Gopher (70 символов)
+        pandoc README.md -f markdown -t plain --columns=70 -o gophermap
+
+    - name: Deploy Retro Version to SDF
+      uses: appleboy/scp-action@master
+      with:
+        host: "tty.sdf.org"
+        username: "egor"
+        key: ${{ secrets.SDF_SSH_KEY }}
+        source: "index.html"
+        target: "~/html/"
+
+    - name: Deploy Gopher Version to SDF
+      uses: appleboy/scp-action@master
+      with:
+        host: "tty.sdf.org"
+        username: "egor"
+        key: ${{ secrets.SDF_SSH_KEY }}
+        source: "gophermap"
+        target: "~/gopher/"
