@@ -1,26 +1,28 @@
-**Java Developer | Migrating Legacy Systems | Certified Vaadin Developer**
+**Java Developer | Certified Vaadin Developer | Legacy migration**
 
 Russia | <work@oldzoomer.ru> | <egor@sdf.org> | 2:5015/519
 
 ## Summary
 
-As a Java Developer at AISA IT-Service, I contributed to the migration of St. Petersburg's automated budget planning system from a legacy Microsoft Access-based platform to a modern infrastructure using Vaadin 23, Spring Boot 2.7, Java 17, and Microsoft SQL Server. By leveraging the Waterfall methodology and Git Flow, I played a role in migrating VBA forms to Vaadin and ensuring compatibility with Microsoft SQL Server stored procedures.
+I modernized the St. Petersburg budget planning system by transitioning it from Microsoft Access to a Java-based architecture using Vaadin 23. This process involved transforming legacy VBA forms, addressing critical business logic errors, and ensuring compatibility with Microsoft SQL Server stored procedures to enhance system reliability and efficiency.  
 
-I have earned multiple certifications, including Certified Vaadin Developer and Cloud.ru (ex. SberCloud). My technical expertise includes Docker, Linux, FidoNet (yes, it's is alive), SCO UNIX, NetBSD's pkgsrc, GS Labs' StingrayTV (platform which used in Tricolor's set-top-boxes - the most largest pay TV operator in Russia), Yandex Home with Alice (smart home platform by Yandex), and more. Passionate about bridging legacy systems with contemporary technologies, I am eager to explore opportunities that align with these goals.
+Certified as a Vaadin 24 Developer and Cloud.ru specialist, I bring expertise in Java, Vaadin, and Linux to deliver scalable and efficient solutions with a focus on legacy system modernization.
 
 ## Profile Details
 
-- **Industry:** Software Development
 - **Website:** [oldzoomer.ru](https://oldzoomer.ru/)
 - **SDF.org HTML4 mirror:** [egor.sdf.org](http://egor.sdf.org/)
+- **GitHub:** [@oldzoomer-ru](https://github.com/oldzoomer-ru)
+- **LinkedIn:** [in/oldzoomer](https://www.linkedin.com/in/oldzoomer/)
+- **Setka (social network by hh.ru):** <https://set.ki/Dzarbxm>
 
 # Experience
 
 ## AISA IT-Service
 
-**Junior Java Developer** | Apr 2024 - Aug 2024 | Санкт-Петербург, Россия
+**Java Developer** | Apr 2024 - Aug 2024 | St. Petersburg, Russia (remotely)
 
-I participated in the migration of St. Petersburg's automated budget planning system from a legacy Microsoft Access-based system to a new system based on Vaadin 23, Spring Boot 2.7, Java 17, and Microsoft SQL Server.  As part of the project, I used the Waterfall methodology, with elements of Git Flow (each task in Jira has its own branch), migrated VBA forms to Vaadin, and fixed business logic errors to maintain compatibility with Microsoft SQL Server stored procedures.
+I migrated the St. Petersburg budget planning system from Microsoft Access to a robust Java-based infrastructure. This involved transitioning legacy VBA forms to Vaadin 23, where I ensured full compatibility with Microsoft SQL Server stored procedures by resolving critical business logic errors. I significantly improved the system's efficiency and reliability.
 
 # Education
 
