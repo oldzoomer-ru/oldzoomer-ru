@@ -1,7 +1,7 @@
 # 👋 Привет, я Егор Гаврилов
 
 **Java Developer** | GraalVM & AI Infrastructure | Vaadin Certified | NetBSD Contributor  
-📍 St. Petersburg, Russia | 🌐 [oldzoomer.ru](https://oldzoomer.ru/) | ✉️ work@oldzoomer.ru | 🔗 [LinkedIn](https://www.linkedin.com/in/oldzoomer/)
+📍 Kstovo, Russia | 🌐 [oldzoomer.ru](https://oldzoomer.ru/) | ✉️ <work@oldzoomer.ru> | 🔗 [LinkedIn](https://www.linkedin.com/in/oldzoomer/)
 
 ---
 
@@ -31,7 +31,7 @@
 
 | Учреждение | Специальность | Период |
 |------------|---------------|--------|
-| **International East European University** | Secondary Vocational Education (Информационные системы и программирование) | `2021.09` — `2026.02` |
+| **МВЕК (Ижевск)** | СПО (Информационные системы и программирование) | `2021.09` — `2026.02` |
 
 ---
 
@@ -41,7 +41,7 @@
 |-----------|------------|
 | **Языки & Фреймворки** | `Java 25` · `Spring Boot` · `Spring Data` · `Spring Security` · `Spring MVC` · `Vaadin 24/14` |
 | **Базы данных & Хранилища** | `PostgreSQL` · `Microsoft SQL Server` · `Redis` · `Amazon S3` · `JDBC` · `Jakarta Persistence` |
-| **Инфраструктура & DevOps** | `Docker` · `Linux` (Arch, Debian, NetBSD) · `Cloud Infrastructure` · `Microservices` · `GraalVM` |
+| **Инфраструктура & DevOps** | `Docker` · `Linux` (Arch, Debian) · `Cloud Infrastructure` · `Microservices` · `GraalVM` |
 | **Инструменты & Паттерны** | `Git` · `JUnit` · `Mockito` · `REST APIs` · `JWT` · `Apache Kafka` · `Unit Testing` |
 
 ---
