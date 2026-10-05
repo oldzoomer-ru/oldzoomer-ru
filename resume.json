@@ -1,0 +1,261 @@
+{
+  "$schema": "https://jsonresume.org/schema.json",
+  "meta": {
+    "name": "Егор Гаврилов",
+    "label": "Java Developer | GraalVM & AI Infrastructure | Vaadin Certified | NetBSD Contributor",
+    "summary": "Я модернизировал систему планирования бюджета Санкт-Петербурга, переведя её с Microsoft Access на архитектуру на основе Java с использованием Vaadin 23. Этот процесс включал преобразование устаревших форм VBA, устранение критических ошибок бизнес-логики и обеспечение совместимости с хранимыми процедурами Microsoft SQL Server для повышения надежности и эффективности системы.\n\nЯ как сертифицированный разработчик Vaadin 24 и специалист по Cloud.ru, обладаю опытом работы с Java, Vaadin и Linux, что позволяет мне создавать масштабируемые и эффективные решения с упором на модернизацию устаревших систем.",
+    "url": "https://oldzoomer.ru/",
+    "email": "",
+    "location": {
+      "country": "Russia",
+      "city": "St. Petersburg"
+    }
+  },
+  "work": [
+    {
+      "name": "AISA IT-Service",
+      "position": "Junior Java Developer",
+      "startDate": "2024-04-01",
+      "endDate": "2024-08-01",
+      "summary": "Я занимался миграцией системы планирования бюджета в Санкт-Петербурге с Microsoft Access на надежную инфраструктуру на основе Java. Это включало перевод устаревших форм VBA на Vaadin 23, где я обеспечил полную совместимость с хранимыми процедурами Microsoft SQL Server, устранив критические ошибки бизнес-логики. Я значительно повысил эффективность и надежность системы.\n",
+      "location": "Санкт-Петербург, Россия"
+    }
+  ],
+  "education": [
+    {
+      "institution": "International East European University",
+      "area": "Secondary Vocational Education",
+      "studyType": "Secondary Vocational Education",
+      "startDate": "2021-09-01",
+      "endDate": "2026-02-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java",
+      "level": "Expert",
+      "keywords": [
+        "Java"
+      ]
+    },
+    {
+      "name": "Vaadin",
+      "level": "Expert",
+      "keywords": [
+        "Vaadin"
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "Expert",
+      "keywords": [
+        "Linux"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Expert",
+      "keywords": [
+        "Docker"
+      ]
+    },
+    {
+      "name": "Cloud Infrastructure",
+      "level": "Expert",
+      "keywords": [
+        "Cloud Infrastructure"
+      ]
+    },
+    {
+      "name": "Microservices",
+      "level": "Expert",
+      "keywords": [
+        "Microservices"
+      ]
+    },
+    {
+      "name": "Spring Boot",
+      "level": "Expert",
+      "keywords": [
+        "Spring Boot"
+      ]
+    },
+    {
+      "name": "Spring Framework",
+      "level": "Expert",
+      "keywords": [
+        "Spring Framework"
+      ]
+    },
+    {
+      "name": "Spring Data JDBC",
+      "level": "Expert",
+      "keywords": [
+        "Spring Data JDBC"
+      ]
+    },
+    {
+      "name": "Jakarta Persistence",
+      "level": "Expert",
+      "keywords": [
+        "Jakarta Persistence"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Expert",
+      "keywords": [
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Unit Testing",
+      "level": "Expert",
+      "keywords": [
+        "Unit Testing"
+      ]
+    },
+    {
+      "name": "HTML5",
+      "level": "Expert",
+      "keywords": [
+        "HTML5"
+      ]
+    },
+    {
+      "name": "Apache Kafka",
+      "level": "Expert",
+      "keywords": [
+        "Apache Kafka"
+      ]
+    },
+    {
+      "name": "JSON Web Token (JWT)",
+      "level": "Expert",
+      "keywords": [
+        "JSON Web Token (JWT)"
+      ]
+    },
+    {
+      "name": "JUnit",
+      "level": "Expert",
+      "keywords": [
+        "JUnit"
+      ]
+    },
+    {
+      "name": "Spring Security",
+      "level": "Expert",
+      "keywords": [
+        "Spring Security"
+      ]
+    },
+    {
+      "name": "REST APIs",
+      "level": "Expert",
+      "keywords": [
+        "REST APIs"
+      ]
+    },
+    {
+      "name": "Spring MVC",
+      "level": "Expert",
+      "keywords": [
+        "Spring MVC"
+      ]
+    },
+    {
+      "name": "Spring Data",
+      "level": "Expert",
+      "keywords": [
+        "Spring Data"
+      ]
+    },
+    {
+      "name": "Mockito",
+      "level": "Expert",
+      "keywords": [
+        "Mockito"
+      ]
+    },
+    {
+      "name": "JDBC",
+      "level": "Expert",
+      "keywords": [
+        "JDBC"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Expert",
+      "keywords": [
+        "Git"
+      ]
+    },
+    {
+      "name": "Amazon S3",
+      "level": "Expert",
+      "keywords": [
+        "Amazon S3"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Expert",
+      "keywords": [
+        "SQL"
+      ]
+    },
+    {
+      "name": "Redis",
+      "level": "Expert",
+      "keywords": [
+        "Redis"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Vaadin 24 Developer",
+      "date": "2026-02-01",
+      "issuer": "Vaadin",
+      "url": "https://vaadin.com/learn/certificate/d95d845a-c586-479d-916b-e08d536462fc"
+    },
+    {
+      "name": "Cloud.ru Cloud Fundamentals",
+      "date": "2026-03-01",
+      "issuer": "Cloud.ru",
+      "url": "https://awardme.ru/ru/badges/8168a9f4-2513-456c-92c3-7c72ee6cdfdd"
+    },
+    {
+      "name": "Cloud.ru Evolution Fundamentals",
+      "date": "2026-03-01",
+      "issuer": "Cloud.ru",
+      "url": "https://awardme.ru/ru/badges/93602b2c-b7c4-4da3-b4cc-e0d335d04b73"
+    },
+    {
+      "name": "Certified Vaadin 14 Developer",
+      "date": "2026-07-01",
+      "issuer": "Vaadin",
+      "url": "http://vaadin.com/learn/certificate/c8b81823-d458-4e5b-bb3e-72d4b25831fe"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Fidonet",
+      "position": "System Operator",
+      "startDate": "2024-12-01",
+      "endDate": null,
+      "summary": "Я самый молодой сисоп в сети FidoNet на текущий момент - 2:5015/519 (Nizhny Novgorod, Russia)",
+      "cause": "scienceAndTechnology"
+    },
+    {
+      "organization": "NetBSD",
+      "position": "Contributor",
+      "startDate": "2025-09-01",
+      "endDate": "2025-09-01",
+      "summary": "Внёс вклад в разработку NetBSD: реализовал workaround для Year 2038 issue в модуле libuuid (PR pkg/59637). Изменения были приняты в основной ветке pkgsrc.",
+      "cause": "scienceAndTechnology"
+    }
+  ]
+}

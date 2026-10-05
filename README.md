@@ -1,57 +1,77 @@
-**Java Developer | Certified Vaadin Developer | Legacy migration**
+# 👋 Привет, я Егор Гаврилов
 
-Russia | <work@oldzoomer.ru> | <egor@sdf.org> | 2:5015/519
+**Java Developer** | GraalVM & AI Infrastructure | Vaadin Certified | NetBSD Contributor  
+📍 St. Petersburg, Russia | 🌐 [oldzoomer.ru](https://oldzoomer.ru/) | ✉️ work@oldzoomer.ru | 🔗 [LinkedIn](https://www.linkedin.com/in/oldzoomer/)
 
-## Summary
+---
 
-I modernized the St. Petersburg budget planning system by transitioning it from Microsoft Access to a Java-based architecture using Vaadin 23. This process involved transforming legacy VBA forms, addressing critical business logic errors, and ensuring compatibility with Microsoft SQL Server stored procedures to enhance system reliability and efficiency.  
+## 📌 Обо мне
 
-Certified as a Vaadin 24 Developer and Cloud.ru specialist, I bring expertise in Java, Vaadin, and Linux to deliver scalable and efficient solutions with a focus on legacy system modernization.
+Я модернизировал систему планирования бюджета Санкт-Петербурга, переведя её с **Microsoft Access** на архитектуру на основе **Java** с использованием **Vaadin 23**. Этот процесс включал преобразование устаревших форм VBA, устранение критических ошибок бизнес-логики и обеспечение совместимости с хранимыми процедурами **Microsoft SQL Server** для повышения надежности и эффективности системы.
 
-## Profile Details
+Как сертифицированный разработчик **Vaadin 24** и специалист по **Cloud.ru**, обладаю опытом работы с Java, Vaadin и Linux, что позволяет мне создавать масштабируемые и эффективные решения с упором на модернизацию устаревших систем.
 
-- **Website:** [oldzoomer.ru](https://oldzoomer.ru/)
-- **SDF.org HTML4 mirror:** [egor.sdf.org](http://egor.sdf.org/)
-- **GitHub:** [@oldzoomer-ru](https://github.com/oldzoomer-ru)
-- **LinkedIn:** [in/oldzoomer](https://www.linkedin.com/in/oldzoomer/)
-- **Setka (social network by hh.ru):** <https://set.ki/Dzarbxm>
+---
 
-# Experience
+## 💼 Опыт работы
 
-## AISA IT-Service
+| Компания | Должность | Период | Локация |
+|----------|-----------|--------|---------|
+| **AISA IT-Service** | Junior Java Developer | `2024.04` — `2024.08` | Санкт-Петербург, Россия |
 
-**Java Developer** | Apr 2024 - Aug 2024 | St. Petersburg, Russia (remotely)
+**Ключевые достижения:**
+- 🔄 Мигрировал систему планирования бюджета с Microsoft Access на Java/Vaadin 23
+- 🛡️ Обеспечил полную совместимость с хранимыми процедурами MS SQL Server
+- 🐛 Устранил критические ошибки бизнес-логики, перенеся VBA-формы на Vaadin
+- 📈 Значительно повысил эффективность и надежность системы
 
-I migrated the St. Petersburg budget planning system from Microsoft Access to a robust Java-based infrastructure. This involved transitioning legacy VBA forms to Vaadin 23, where I ensured full compatibility with Microsoft SQL Server stored procedures by resolving critical business logic errors. I significantly improved the system's efficiency and reliability.
+---
 
-# Education
+## 🎓 Образование
 
-## International East European University
+| Учреждение | Специальность | Период |
+|------------|---------------|--------|
+| **International East European University** | Secondary Vocational Education (Информационные системы и программирование) | `2021.09` — `2026.02` |
 
-**Secondary Vocational Education** | Sep 2021 - Feb 2026
+---
 
-# Certifications
+## 🛠️ Навыки
 
-## Certified Vaadin 24 Developer
+| Категория | Технологии |
+|-----------|------------|
+| **Языки & Фреймворки** | `Java 25` · `Spring Boot` · `Spring Data` · `Spring Security` · `Spring MVC` · `Vaadin 24/14` |
+| **Базы данных & Хранилища** | `PostgreSQL` · `Microsoft SQL Server` · `Redis` · `Amazon S3` · `JDBC` · `Jakarta Persistence` |
+| **Инфраструктура & DevOps** | `Docker` · `Linux` (Arch, Debian, NetBSD) · `Cloud Infrastructure` · `Microservices` · `GraalVM` |
+| **Инструменты & Паттерны** | `Git` · `JUnit` · `Mockito` · `REST APIs` · `JWT` · `Apache Kafka` · `Unit Testing` |
 
-**Vaadin** | Feb 2026
+---
 
-[View Certificate](https://vaadin.com/learn/certificate/d95d845a-c586-479d-916b-e08d536462fc)
+## 🏆 Сертификаты
 
-## Cloud.ru Cloud Fundamentals
+| Название | Выдан | Действует до | Ссылка |
+|----------|-------|--------------|--------|
+| **Certified Vaadin 24 Developer** | Vaadin | `2026-02-01` | [Смотреть](https://vaadin.com/learn/certificate/d95d845a-c586-479d-916b-e08d536462fc) |
+| **Certified Vaadin 14 Developer** | Vaadin | `2026-07-01` | [Смотреть](http://vaadin.com/learn/certificate/c8b81823-d458-4e5b-bb3e-72d4b25831fe) |
+| **Cloud.ru Cloud Fundamentals** | Cloud.ru | `2026-03-01` | [Смотреть](https://awardme.ru/ru/badges/8168a9f4-2513-456c-92c3-7c72ee6cdfdd) |
+| **Cloud.ru Evolution Fundamentals** | Cloud.ru | `2026-03-01` | [Смотреть](https://awardme.ru/ru/badges/93602b2c-b7c4-4da3-b4cc-e0d335d04b73) |
 
-**Cloud.ru** | Mar 2026
+---
 
-[View Certificate](https://awardme.ru/ru/badges/8168a9f4-2513-456c-92c3-7c72ee6cdfdd)
+## 🤝 Волонтёрство & Open Source
 
-## Cloud.ru Evolution Fundamentals
+### 🔧 NetBSD Contributor
+- **Период:** `2025.09`
+- 📝 Внёс вклад в разработку NetBSD: реализовал workaround для **Year 2038 issue** в модуле `libuuid` (PR pkg/59637). Изменения приняты в основную ветку `pkgsrc`.
 
-**Cloud.ru** | Mar 2026
+### 📡 FidoNet System Operator
+- **Период:** `2024.12` — по настоящее время
+- 🌟 Самый молодой сисоп в сети FidoNet на текущий момент — `2:5015/519` (Nizhny Novgorod, Russia)
 
-[View Certificate](https://awardme.ru/ru/badges/93602b2c-b7c4-4da3-b4cc-e0d335d04b73)
+---
 
-## Certified Vaadin 14 Developer
+## 📬 Контакты
 
-**Vaadin** | Jul 2026
-
-[View Certificate](http://vaadin.com/learn/certificate/c8b81823-d458-4e5b-bb3e-72d4b25831fe)
+- 📧 Email: [work@oldzoomer.ru](mailto:work@oldzoomer.ru)
+- 🌐 Сайт: [oldzoomer.ru](https://oldzoomer.ru/)
+- 💼 LinkedIn: [linkedin.com/in/oldzoomer](https://www.linkedin.com/in/oldzoomer/)
+- 🐙 GitHub: [github.com/oldzoomer](https://github.com/oldzoomer)
