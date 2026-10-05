@@ -15,8 +15,8 @@
     {
       "name": "AISA IT-Service",
       "position": "Junior Java Developer",
-      "startDate": "2024-04-01",
-      "endDate": "2024-08-01",
+      "startDate": "2024-04-02",
+      "endDate": "2024-08-19",
       "summary": "Я занимался миграцией системы планирования бюджета в Санкт-Петербурге с Microsoft Access на надежную инфраструктуру на основе Java. Это включало перевод устаревших форм VBA на Vaadin 23, где я обеспечил полную совместимость с хранимыми процедурами Microsoft SQL Server, устранив критические ошибки бизнес-логики. Я значительно повысил эффективность и надежность системы.\n",
       "location": "Санкт-Петербург, Россия"
     }
@@ -253,7 +253,7 @@
       "organization": "NetBSD",
       "position": "Contributor",
       "startDate": "2025-09-01",
-      "endDate": "2025-09-31",
+      "endDate": "2025-09-30",
       "summary": "Внёс вклад в разработку NetBSD: реализовал workaround для Year 2038 issue в модуле libuuid (PR pkg/59637). Изменения были приняты в основной ветке pkgsrc.",
       "cause": "scienceAndTechnology"
     }
