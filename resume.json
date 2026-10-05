@@ -23,11 +23,11 @@
   ],
   "education": [
     {
-      "institution": "International East European University",
-      "area": "Secondary Vocational Education",
-      "studyType": "Secondary Vocational Education",
+      "institution": "МВЕК",
+      "area": "Ижевск",
+      "studyType": "Колледж",
       "startDate": "2021-09-01",
-      "endDate": "2026-02-01"
+      "endDate": "2026-03-01"
     }
   ],
   "skills": [
@@ -253,7 +253,7 @@
       "organization": "NetBSD",
       "position": "Contributor",
       "startDate": "2025-09-01",
-      "endDate": "2025-09-01",
+      "endDate": "2025-09-31",
       "summary": "Внёс вклад в разработку NetBSD: реализовал workaround для Year 2038 issue в модуле libuuid (PR pkg/59637). Изменения были приняты в основной ветке pkgsrc.",
       "cause": "scienceAndTechnology"
     }
