@@ -48,12 +48,12 @@
 
 ## 🏆 Сертификаты
 
-| Название | Выдан | Действует до | Ссылка |
+| Название | Выдан | Дата выдачи | Ссылка |
 |----------|-------|--------------|--------|
-| **Certified Vaadin 24 Developer** | Vaadin | `2026-02-01` | [Смотреть](https://vaadin.com/learn/certificate/d95d845a-c586-479d-916b-e08d536462fc) |
-| **Certified Vaadin 14 Developer** | Vaadin | `2026-07-01` | [Смотреть](http://vaadin.com/learn/certificate/c8b81823-d458-4e5b-bb3e-72d4b25831fe) |
-| **Cloud.ru Cloud Fundamentals** | Cloud.ru | `2026-03-01` | [Смотреть](https://awardme.ru/ru/badges/8168a9f4-2513-456c-92c3-7c72ee6cdfdd) |
-| **Cloud.ru Evolution Fundamentals** | Cloud.ru | `2026-03-01` | [Смотреть](https://awardme.ru/ru/badges/93602b2c-b7c4-4da3-b4cc-e0d335d04b73) |
+| **Certified Vaadin 24 Developer** | Vaadin | `2026-02` | [Смотреть](https://vaadin.com/learn/certificate/d95d845a-c586-479d-916b-e08d536462fc) |
+| **Certified Vaadin 14 Developer** | Vaadin | `2026-07` | [Смотреть](http://vaadin.com/learn/certificate/c8b81823-d458-4e5b-bb3e-72d4b25831fe) |
+| **Cloud.ru Cloud Fundamentals** | Cloud.ru | `2026-03` | [Смотреть](https://awardme.ru/ru/badges/8168a9f4-2513-456c-92c3-7c72ee6cdfdd) |
+| **Cloud.ru Evolution Fundamentals** | Cloud.ru | `2026-03` | [Смотреть](https://awardme.ru/ru/badges/93602b2c-b7c4-4da3-b4cc-e0d335d04b73) |
 
 ---
 
