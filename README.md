@@ -2,7 +2,7 @@
 
 Java-разработчик · Кстово, Россия
 
-[Сайт](https://oldzoomer.ru/) · [GitHub](https://github.com/oldzoomer) · [LinkedIn](https://www.linkedin.com/in/oldzoomer/) · [work@oldzoomer.ru](mailto:work@oldzoomer.ru)
+[Сайт](https://oldzoomer.ru/) · [GitHub](https://github.com/oldzoomer-ru) · [LinkedIn](https://www.linkedin.com/in/oldzoomer/) · [work@oldzoomer.ru](mailto:work@oldzoomer.ru)
 
 ## Обо мне
 
